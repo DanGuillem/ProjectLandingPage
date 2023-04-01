@@ -1,0 +1,20 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+ul {
+    display: flex;
+    gap: 15px;
+}
+
+li {
+    list-style-type: none;
+}
